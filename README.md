@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Pikachu waving">
 </p>
 
-<h1 align="center">🎮 Rupsha | Frontend Trainer 🧑‍💻</h1>
-<h3 align="center">💻 Frontend Enthusiast | ☕ Java Programmer | 🌱 Always Learning</h3>
+<h1 align="center">🎮 Rupsha |  🧑‍💻</h1>
+<h3 align="center">💻 Frontend Developer | ☕ Java Programmer | 🌱 
 
 ---
 
