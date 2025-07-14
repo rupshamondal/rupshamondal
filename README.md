@@ -40,7 +40,7 @@
 ---
 
 ### ✨ Fun Facts
-- 😸 Cat person
+- 😸 dog person
 - 🎨 I love aesthetic web layouts
 - 🎧 Coding + Lo-Fi = 🔥
 
@@ -49,8 +49,7 @@
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]
 https://www.linkedin.com/in/rupsha-mondal-220464323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]
-https://github.com/rupshamondal
+
 ---
 
 <p align="center">Thanks for visiting! 🌟</p>
